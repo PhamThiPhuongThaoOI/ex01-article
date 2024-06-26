@@ -278,6 +278,12 @@
         margin-bottom:42px;
     }
 
+    .eyes {
+       width: 65.6px;
+       height: 52px;
+       transform: translate(-50% ,0%); 
+    }
+
     .title--image {
         margin-top: 0px;
         width: 274px;
