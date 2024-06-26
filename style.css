@@ -20,12 +20,15 @@ header {
 #bar {
     display: none;
 }
+
+.nordic {
+    padding-left:63.99px ;
+}
 header svg {
     width: 395.83px;
     height: 37.53px;
     align-items: center;
     margin: 52.54px auto 63.58px ;
-    padding-left:63.99px ;
 }
 .list {
     width: 476.59px;
